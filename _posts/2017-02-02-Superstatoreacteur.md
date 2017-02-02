@@ -8,7 +8,7 @@ _Auteur_ : Abel FAURE
 _Pays / Origine géographique_ :  USA - Russie - Australie - Royaume Uni
 
 
-_Niveau de maturité_ : **R&D**  Prototype  Industrialisation  Commercialisation
+_Niveau de maturité_ : **R&D** - Prototype - Industrialisation - Commercialisation
 
 
 #### Dates clés
@@ -23,7 +23,7 @@ _Domaine(s) scientifique(s) concerné(s)_ : Aérodynamique, Thermique, Thermochi
 _Secteur dapplication_ : Aéronautique, Défense, Espace
 
 
-_Option 3A concernée_ : OMA  OPA  OGI  ACD  OED  OSI  **MAE** 
+_Option 3A concernée_ : OMA - OPA - OGI - ACD - OED - OSI - **MAE** 
 
 ## Description technique
 On rappelle que le statoréacteur (ramjet en anglais) est un turboréacteur dépourvu de turbine et de compresseur, qui utilise la vitesse du vent relatif dû à la vitesse de l'avion pour comprimer l'air et lui apporter de l'énergie par apport de carburant dans une chambre de combustion. Le statoréacteur est plus efficace que le turboréacteur pour des vitesses élevées (entre Mach 3 et Mach 5), mais il ne peut pas fonctionner à basse vitesse (pas de poussée produite en dessous de 500 km/h). Le statoréacteur est aujourd'hui une technologie maîtrisée, mais il est limité par le fait que, comme dans un turboréacteur normal, la combustion du carburant doit se faire à vitesse subsonique, ce qui impose de ralentir le flux d'air dans le moteur au prix d'une onde de choc qui engendre une perte de rendement.
