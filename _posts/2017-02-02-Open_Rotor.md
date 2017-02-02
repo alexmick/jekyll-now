@@ -8,7 +8,7 @@ _Auteur_ : Abel FAURE
 _Pays / Origine géographique_ : USA, UE
 
 
-_Niveau de maturité_ : **R&D**  Prototype  Industrialisation  Commercialisation
+_Niveau de maturité_ : **R&D** - Prototype - Industrialisation - Commercialisation
 
 
 #### Dates clés
@@ -18,10 +18,10 @@ _Niveau de maturité_ : **R&D**  Prototype  Industrialisation  Commerciali
 
 _Domaine scientifique concerné_ : Aérodynamique
 
-_Secteur dapplication_ : Transport aérien
+_Secteur d'application_ : Transport aérien
 
 
-_Option 3A concernée_ : OMA  OPA  OGI  ACD  OED  OSI  **MAE** 
+_Option 3A concernée_ : OMA - OPA - OGI -ACD - OED - OSI - **MAE** 
 
 ## Description technique
 Aujourd'hui, tous les turboréacteurs séparent le flux d'air en deux flux: le flux primaire, ou flux chaud, qui passe par la chambre de combustion et entraîne les turbines qui actionnent les compresseurs, et le flux secondaire, ou flux froid, qui est comprimé mais ne subit pas de combustion. Le taux de dilution est le rapport de débit entre le flux froid et le flux chaud.
