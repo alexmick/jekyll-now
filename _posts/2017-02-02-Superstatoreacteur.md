@@ -20,7 +20,7 @@ _Niveau de maturité_ : **R&D** - Prototype - Industrialisation - Commercialisat
 
 _Domaine(s) scientifique(s) concerné(s)_ : Aérodynamique, Thermique, Thermochimie
 
-_Secteur dapplication_ : Aéronautique, Défense, Espace
+_Secteur d'application_ : Aéronautique, Défense, Espace
 
 
 _Option 3A concernée_ : OMA - OPA - OGI - ACD - OED - OSI - **MAE** 
