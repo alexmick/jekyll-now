@@ -26,13 +26,13 @@ _Option 3A concernée_ : OMA – OPA – OGI – ACD – OED – OSI – **MAE**
 
 ## Description technique
 Dans le but de diminuer l'empreinte écologique du transport aérien, les grands industriels aéronautiques occidentaux commencent à s'intéresser à la propulsion électrique pour les avions du futur. 
-Si celle-ci est déjà mise en oeuvre sur certains avions légers et pour des durées de vol généralement inférieures à 1h, il est beaucoup plus difficile de concevoir un avion de ligne purement électrique
-du fait de la faible densité énergétique des batteries actuelles. Une étape intermédiaire est celle de l'avion hybride, équipé à la fois d'une turbine et de moteurs électriques, ainsi que d'une batterie électrique.
-La turbine est notamment utile au décollage pour fournir un supplément de puissance nécessaire  lors de cette phase de vol, puis il est possible de la faire tourner à un régime de fonctionnement optimal pour qu'elle alimente la batterie à l'aide d'un alternateur, pendant que
-les moteurs électriques fournissent l'essentiel de la poussée. Certaines phases de vol pourront être effectuées turbine coupée, uniquement sur les moteurs électriques. De plus, lors des phases de ralentissement et de descente, l'avion pourra se mettre en plané, les moteurs électriques pourront être coupés et
-fonctionner de manière inversée, comme des éoliennes, ce qui rechargerait la batterie (il n'est pas sécurisé de couper un turboréacteur en vol à cause du temps de réallumage trop long, mais un moteur électrique peut redémarrer de manière instantanée).
-Un autre avantage de la propulsion électrique est que les moteurs électriques, contrairement aux turboréacteurs, ne voient pas leur rendement chuter lorsqu'on diminue leurs dimensions. Il est donc possible, au lieu d'utiliser deux ou trois gros moteurs, d'en répartir un grand nombre tout le long de l'aile, ce
-qui évite les traînées d'interférences dûes à la présence de grosses nacelles moteur et permet d'accélérer le flux d'air juste sur l'extrados de l'aile et donc d'améliorer la portance. Des projets d'avions (pour l'instant, purement électriques) fonctionnant selon ce concept sont à l'étude à l'ONERA (Projet Ampere)
+
+Si celle-ci est déjà mise en oeuvre sur certains avions légers et pour des durées de vol généralement inférieures à 1h, il est beaucoup plus difficile de concevoir un avion de ligne purement électrique du fait de la faible densité énergétique des batteries actuelles.
+
+Une étape intermédiaire est celle de l'avion hybride, équipé à la fois d'une turbine et de moteurs électriques, ainsi que d'une batterie électrique.
+La turbine est notamment utile au décollage pour fournir un supplément de puissance nécessaire  lors de cette phase de vol, puis il est possible de la faire tourner à un régime de fonctionnement optimal pour qu'elle alimente la batterie à l'aide d'un alternateur, pendant queles moteurs électriques fournissent l'essentiel de la poussée. Certaines phases de vol pourront être effectuées turbine coupée, uniquement sur les moteurs électriques. De plus, lors des phases de ralentissement et de descente, l'avion pourra se mettre en plané, les moteurs électriques pourront être coupés et fonctionner de manière inversée, comme des éoliennes, ce qui rechargerait la batterie (il n'est pas sécurisé de couper un turboréacteur en vol à cause du temps de réallumage trop long, mais un moteur électrique peut redémarrer de manière instantanée).
+
+Un autre avantage de la propulsion électrique est que les moteurs électriques, contrairement aux turboréacteurs, ne voient pas leur rendement chuter lorsqu'on diminue leurs dimensions. Il est donc possible, au lieu d'utiliser deux ou trois gros moteurs, d'en répartir un grand nombre tout le long de l'aile, ce qui évite les traînées d'interférences dûes à la présence de grosses nacelles moteur et permet d'accélérer le flux d'air juste sur l'extrados de l'aile et donc d'améliorer la portance. Des projets d'avions (pour l'instant, purement électriques) fonctionnant selon ce concept sont à l'étude à l'ONERA (Projet Ampere)
 et à la NASA (Projet X-57).
 
 
