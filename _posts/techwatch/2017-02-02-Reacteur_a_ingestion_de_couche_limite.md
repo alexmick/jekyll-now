@@ -25,12 +25,14 @@ _Option 3A concernée_ : OMA – OPA – OGI – ACD – OED – OSI – **MAE**
 
 ## Description technique
 La couche limite autour d'un avion est la zone turbulente à proximité de la surface de l'avion. Cette zone apparaît à cause de la viscosité de l'air dans lequel l'avion évolue, et la vitesse de l'air n'y est pas homogène.
-Généralement, on fait en sorte que l'écoulement absorbé par le moteur soit au contraire homogène, pour des raisons de fatigue des aubes du compresseur, donc les avions à réaction sont jusqu'ici conçus de manière
+Généralement, on fait en sorte que l'écoulement absorbé par le moteur soit au contraire homogène, pour des raisons de fatigue structurale des aubes du compresseur, donc les avions à réaction sont jusqu'ici conçus de manière
 à ne pas faire entrer la couche limite dans le moteur.
+
 Cependant, il peut être intéressant d'aller au contraire puiser l'air du moteur dans la couche limite. En effet, cet air est moins rapide que l'air ambiant (par rapport à l'avion) car il est ralenti par le fuselage.
 Or pour un réacteur, le rendement est bien meilleur lorsqu'il s'agit d'accélérer un écoulement lent que lorsqu'il faut accélérer un écoulement déjà rapide. De plus, cela permettrait de noyer les moteurs dans le fuselage et 
 de les équiper d'entrées d'air qui dépassent peu, ce qui améliore l'aérodynamique globale de l'avion. Enfin le moteur placé dans la couche limite éjecte ses gaz dans le sillage de l'avion, ce qui redynamise le sillage et diminue la 
 traînée de sillage.
+
 Pour résoudre le fait qu'un écoulement inhomogène fatigue le moteur, l'idée est de dessiner une forme d'entrée d'air moteur qui diminue les inhomogénéités et de faire une étude structurale poussée des aubes du compresseur.
 Pour l'instant, seuls quelques projets sont à l'étude, mais le concept est encore assez récent.
 
