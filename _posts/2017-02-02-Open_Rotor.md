@@ -18,7 +18,7 @@ _Niveau de maturité_ : **R&D**  Prototype  Industrialisation  Commerciali
 
 _Domaine scientifique concerné_ : Aérodynamique
 
-_Secteur dapplication_ : Aviation civile
+_Secteur dapplication_ : Transport aérien
 
 
 _Option 3A concernée_ : OMA  OPA  OGI  ACD  OED  OSI  **MAE** 
