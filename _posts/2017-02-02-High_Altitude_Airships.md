@@ -5,27 +5,30 @@ title: Dirigeables Haute Altitude (HAA - High Altitude Airship)
 
 _Auteur_ : Abel FAURE
 
-_Pays / Origine géographique_ : USA, Russie, UE
+_Pays / Origine gÃ©ographique_ : USA, Russie, UE
 
 
-_Niveau de maturité_ : **R&D** – Prototype – Industrialisation – Commercialisation
+_Niveau de maturitÃ©_ : **R&D** â€“ Prototype â€“ Industrialisation â€“ Commercialisation
 
 
-_Domaine scientifique concerné_ : Aéronautique, Spatial
+_Domaine scientifique concernÃ©_ : AÃ©ronautique, Spatial
 
-_Secteur d’application_ : Télécommunications, Défense
+_Secteur dâ€™application_ : TÃ©lÃ©communications, DÃ©fense
 
 
-_Option 3A concernée_ : OMA – OPA – OGI – ACD – OED – OSI – **MAE** 
+_Option 3A concernÃ©e_ : OMA â€“ OPA â€“ OGI â€“ ACD â€“ OED â€“ OSI â€“ **MAE** 
+
+##Dates ClÃ©s
++ 2005 : Lancement aux Etats-Unis d'un programme de dÃ©fense consistant Ã  mettre en oeuvre des dirigeables d'observation Ã  haute     altitude.
 
 ## Description technique
-Les HAA sont des dirigeables destinés à voler à très haute altitude (17 à 22 km du sol) pour des missions de longue durée (plusieurs mois). Leur rôle est similaire à celui des satellites d'observation ou de télécommunication, en particulier ils ont la capacité de survoler un point de manière géostationnaire à 20km d'altitude alors qu'un satellite géostationnaire se trouve obligatoirement à 36000km du sol. Les HAA, du fait de leur altitude plus faible, peuvent couvrir une zone plus réduite mais avec une plus grande efficacité (observations plus précises, moins de perte de signal en télécom). De plus leurs coûts et délais de lancement sont beaucoup plus intéressants que celui des satellites et ils est facile de ramener un HAA au sol pour des opérations de maintenance. Les HAA peuvent donc non pas remplacer, mais compléter le travail effectué par les satellites. Depuis 2005, plusieurs projets sont étudiés aux Etats-Unis à des fins de défense. Plusieurs vols d'essai et projets ont avorté, mais depuis 2012, un projet français est à l'étude dans la société Thalès Alenia Space. 
+Les HAA sont des dirigeables destinÃ©s Ã  voler Ã  trÃ¨s haute altitude (17 Ã  22 km du sol) pour des missions de longue durÃ©e (plusieurs mois). Leur rÃ´le est similaire Ã  celui des satellites d'observation ou de tÃ©lÃ©communication, en particulier ils ont la capacitÃ© de survoler un point de maniÃ¨re gÃ©ostationnaire Ã  20km d'altitude alors qu'un satellite gÃ©ostationnaire se trouve obligatoirement Ã  36000km du sol. Les HAA, du fait de leur altitude plus faible, peuvent couvrir une zone plus rÃ©duite mais avec une plus grande efficacitÃ© (observations plus prÃ©cises, moins de perte de signal en tÃ©lÃ©com). De plus leurs coÃ»ts et dÃ©lais de lancement sont beaucoup plus intÃ©ressants que celui des satellites et ils est facile de ramener un HAA au sol pour des opÃ©rations de maintenance. Les HAA peuvent donc non pas remplacer, mais complÃ©ter le travail effectuÃ© par les satellites. Depuis 2005, plusieurs projets sont Ã©tudiÃ©s aux Etats-Unis Ã  des fins de dÃ©fense. Plusieurs vols d'essai et projets ont avortÃ©, mais depuis 2012, un projet franÃ§ais est Ã  l'Ã©tude dans la sociÃ©tÃ© ThalÃ¨s Alenia Space. 
 
-## Entreprises impliquées
-Lockheed-Martin (USA), Thalès Alenia Space (UE)
+## Entreprises impliquÃ©es
+Lockheed-Martin (USA), ThalÃ¨s Alenia Space (UE)
 
 ## Pour en savoir plus
 
-+ Résumé général de la situation : <http://www.portail-aviation.com/2015/08/dossier-dirigeable-episode-4-les-dirigeables-en-2015.html>
++ RÃ©sumÃ© gÃ©nÃ©ral de la situation : <http://www.portail-aviation.com/2015/08/dossier-dirigeable-episode-4-les-dirigeables-en-2015.html>
 
-+ Le Stratobus de Thalès : <https://www.thalesgroup.com/fr/worldwide/espace/magazine/mi-drone-mi-satellite-stratobus>
++ Le Stratobus de ThalÃ¨s : <https://www.thalesgroup.com/fr/worldwide/espace/magazine/mi-drone-mi-satellite-stratobus>
