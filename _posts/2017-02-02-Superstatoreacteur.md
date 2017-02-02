@@ -1,45 +1,45 @@
 ---
 layout: post
-title: Superstatoréacteur (Scramjet)
+title: SuperstatorÃ©acteur (Scramjet)
 ---
 
 _Auteur_ : Abel FAURE
 
-_Pays / Origine géographique_ :  USA - Russie - Australie - Royaume Uni
+_Pays / Origine gÃ©ographique_ :  USA - Russie - Australie - Royaume Uni
 
 
-_Niveau de maturité_ : **R&D** – Prototype – Industrialisation – Commercialisation
+_Niveau de maturitÃ©_ : **R&D** Â– Prototype Â– Industrialisation Â– Commercialisation
 
 
-#### Dates clés
-+ 1964 : Premier brevet concernant un superstatoréacteur
-+ 1991 : Premier vol d'un engin propulsé par un superstatoréacteur (Fusée Kholod, Russie)
-+ 2004 : L'engin américain X-43A propulsé par statoréacteur bat le record de vitesse pour un avion non piloté avec une vitesse de Mach 9,7 (10 600 km/h).
+#### Dates clÃ©s
++ 1964 : Premier brevet concernant un superstatorÃ©acteur
++ 1991 : Premier vol d'un engin propulsÃ© par un superstatorÃ©acteur (FusÃ©e Kholod, Russie)
++ 2004 : L'engin amÃ©ricain X-43A propulsÃ© par statorÃ©acteur bat le record de vitesse pour un avion non pilotÃ© avec une vitesse de Mach 9,7 (10 600 km/h).
 
 
 
-_Domaine(s) scientifique(s) concerné(s)_ : Aérodynamique, Thermique, Thermochimie
+_Domaine(s) scientifique(s) concernÃ©(s)_ : AÃ©rodynamique, Thermique, Thermochimie
 
-_Secteur d’application_ : Aéronautique, Défense, Espace
+_Secteur dÂ’application_ : AÃ©ronautique, DÃ©fense, Espace
 
 
-_Option 3A concernée_ : OMA – OPA – OGI – ACD – OED – OSI – **MAE** 
+_Option 3A concernÃ©e_ : OMA Â– OPA Â– OGI Â– ACD Â– OED Â– OSI Â– **MAE** 
 
 ## Description technique
-On rappelle que le statoréacteur (ramjet en anglais) est un turboréacteur dépourvu de turbine et de compresseur, qui utilise la vitesse du vent relatif dû à la vitesse de l'avion pour comprimer l'air et lui apporter de l'énergie par apport de carburant dans une chambre de combustion. Le statoréacteur est plus efficace que le turboréacteur pour des vitesses élevées (entre Mach 3 et Mach 5), mais il ne peut pas fonctionner à basse vitesse (pas de poussée produite en dessous de 500 km/h). Le statoréacteur est aujourd'hui une technologie maîtrisée, mais il est limité par le fait que, comme dans un turboréacteur normal, la combustion du carburant doit se faire à vitesse subsonique, ce qui impose de ralentir le flux d'air dans le moteur au prix d'une onde de choc qui engendre une perte de rendement.
-Le superstatoréacteur est un statoréacteur dans lequel la combustion se fait à vitesse supersonique, ce qui permet de s'affranchir de la contrainte de devoir ralentir le flux dans l'entrée d'air. Le superstatoréacteur est le turboréacteur le plus efficace pour des vitesses allant de Mach 5 à Mach 15. La difficulté est de réussir une combustion efficace à vitesse aussi élevée, car le kérosène n'a pas le temps de se brûler entièrement entre la chambre de combustion et la tuyère du moteur, ce qui engendre des pertes importantes et produit une poussée insuffisante pour maintenir le véhicule à une vitesse élevée. D'autres combustibles doivent donc être employés.
-Actuellement, le superstatoréacteur est une technologie expérimentale. Le premier à avoir volé est russe, il était fixé sur une fusée à laquelle il apportait un supplément de poussée. L'Australie a également lancé le démonstrateur Hyshot, propulsé à l'hydrogène. Ce démonstrateur servait surtout à étudier comment se déroulait la combustion supersonique dans le moteur, mais ne générait pas de poussée significative.
-La NASA a testé dans les années 2000 à 2010 deux démonstrateurs d'appareils non pilotés capables de voler et d'accélérer uniquement sur leur superstatoréacteur: Le X-43A, qui a atteint la vitesse de Mach 9,1 en 2004 à 33km d'altitude, puis le X-51. Ces appareils sont largués depuis un avion porteur et accélérés par une fusée avant de pouvoir allumer leur réacteur, qui ne peut pas démarrer à vitesse insuffisante.
+On rappelle que le statorÃ©acteur (ramjet en anglais) est un turborÃ©acteur dÃ©pourvu de turbine et de compresseur, qui utilise la vitesse du vent relatif dÃ» Ã  la vitesse de l'avion pour comprimer l'air et lui apporter de l'Ã©nergie par apport de carburant dans une chambre de combustion. Le statorÃ©acteur est plus efficace que le turborÃ©acteur pour des vitesses Ã©levÃ©es (entre Mach 3 et Mach 5), mais il ne peut pas fonctionner Ã  basse vitesse (pas de poussÃ©e produite en dessous de 500 km/h). Le statorÃ©acteur est aujourd'hui une technologie maÃ®trisÃ©e, mais il est limitÃ© par le fait que, comme dans un turborÃ©acteur normal, la combustion du carburant doit se faire Ã  vitesse subsonique, ce qui impose de ralentir le flux d'air dans le moteur au prix d'une onde de choc qui engendre une perte de rendement.
+Le superstatorÃ©acteur est un statorÃ©acteur dans lequel la combustion se fait Ã  vitesse supersonique, ce qui permet de s'affranchir de la contrainte de devoir ralentir le flux dans l'entrÃ©e d'air. Le superstatorÃ©acteur est le turborÃ©acteur le plus efficace pour des vitesses allant de Mach 5 Ã  Mach 15. La difficultÃ© est de rÃ©ussir une combustion efficace Ã  vitesse aussi Ã©levÃ©e, car le kÃ©rosÃ¨ne n'a pas le temps de se brÃ»ler entiÃ¨rement entre la chambre de combustion et la tuyÃ¨re du moteur, ce qui engendre des pertes importantes et produit une poussÃ©e insuffisante pour maintenir le vÃ©hicule Ã  une vitesse Ã©levÃ©e. D'autres combustibles doivent donc Ãªtre employÃ©s.
+Actuellement, le superstatorÃ©acteur est une technologie expÃ©rimentale. Le premier Ã  avoir volÃ© est russe, il Ã©tait fixÃ© sur une fusÃ©e Ã  laquelle il apportait un supplÃ©ment de poussÃ©e. L'Australie a Ã©galement lancÃ© le dÃ©monstrateur Hyshot, propulsÃ© Ã  l'hydrogÃ¨ne. Ce dÃ©monstrateur servait surtout Ã  Ã©tudier comment se dÃ©roulait la combustion supersonique dans le moteur, mais ne gÃ©nÃ©rait pas de poussÃ©e significative.
+La NASA a testÃ© dans les annÃ©es 2000 Ã  2010 deux dÃ©monstrateurs d'appareils non pilotÃ©s capables de voler et d'accÃ©lÃ©rer uniquement sur leur superstatorÃ©acteur: Le X-43A, qui a atteint la vitesse de Mach 9,1 en 2004 Ã  33km d'altitude, puis le X-51. Ces appareils sont larguÃ©s depuis un avion porteur et accÃ©lÃ©rÃ©s par une fusÃ©e avant de pouvoir allumer leur rÃ©acteur, qui ne peut pas dÃ©marrer Ã  vitesse insuffisante.
 
-Applications envisagées:
-Le superstatoréacteur est un concurrent intéressant de la fusée tant qu'on reste dans l'atmosphère car le fait qu'il utilise l'oxygène atmosphérique comme comburant (contrairement à une fusée qui doit emporter de l'oxygène en plus de son carburant) lui permet d'avoir une impulsion spécifique 2 à 6 fois supérieure à celle d'une fusée. Il pourrait être utilisé comme premier étage réutilisable de véhicule spatial, ou encore à des fins militaires, telles que la propulsion de missiles ou d'avions de reconnaissance à très grande vitesse.
+Applications envisagÃ©es:
+Le superstatorÃ©acteur est un concurrent intÃ©ressant de la fusÃ©e tant qu'on reste dans l'atmosphÃ¨re car le fait qu'il utilise l'oxygÃ¨ne atmosphÃ©rique comme comburant (contrairement Ã  une fusÃ©e qui doit emporter de l'oxygÃ¨ne en plus de son carburant) lui permet d'avoir une impulsion spÃ©cifique 2 Ã  6 fois supÃ©rieure Ã  celle d'une fusÃ©e. Il pourrait Ãªtre utilisÃ© comme premier Ã©tage rÃ©utilisable de vÃ©hicule spatial, ou encore Ã  des fins militaires, telles que la propulsion de missiles ou d'avions de reconnaissance Ã  trÃ¨s grande vitesse.
 
-## Entreprises impliquées
+## Entreprises impliquÃ©es
 NASA, Boeing, University of Queensland, ONERA, MBDA
 
 ## Pour en savoir plus
-+ Des informations sur l'appareil expérimental X-43A et sur le fonctionnement d'un scramjet : <https://www.nasa.gov/centers/dryden/pdf/171371main_FS-040-DFRC.pdf>
++ Des informations sur l'appareil expÃ©rimental X-43A et sur le fonctionnement d'un scramjet : <https://www.nasa.gov/centers/dryden/pdf/171371main_FS-040-DFRC.pdf>
 
-+ Un bon résumé de l'état actuel de la technologie : <http://www.forbes.com/sites/brucedorminey/2014/08/22/hypersonic-scramjets-still-key-to-future-of-aerospace/#3cfe87c54ca7>
++ Un bon rÃ©sumÃ© de l'Ã©tat actuel de la technologie : <http://www.forbes.com/sites/brucedorminey/2014/08/22/hypersonic-scramjets-still-key-to-future-of-aerospace/#3cfe87c54ca7>
 
 + Un bouquin complet sur le sujet : <http://bbs.9ifly.cn/plugin.php?id=freeaddon_pdf_preview:pdf&pid=354543&aid=82001&md5hash=7b889e31037d5b0313e45d0efd7185c4>
