@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Rotor
+title: Open Rotor (Turboréacteur à soufflante non carénée)
 ---
 
 _Auteur_ : Abel FAURE
